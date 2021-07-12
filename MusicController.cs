@@ -16,8 +16,6 @@ namespace SpaceInvaders
                 {
                     /*Mission Impissible :)
                      * 
-                     * 
-                     * 
                     Console.Beep(784, 150);
                     Thread.Sleep(300);
                     Console.Beep(784, 150);
